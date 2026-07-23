@@ -1,0 +1,28 @@
+# Alife Health
+
+> Alife Health is an AI-powered fertility technology company building clinical decision-support tools for IVF clinics and fertility patients. Its Alife Assist platform integrates with clinic EMR systems to provide data-driven insights across the IVF cycle. Alife is a portfolio company of Union Square Ventures. No public API, developer portal, or SDK is currently published.
+
+## Products
+- [Platform Overview](https://www.alifehealth.com/platform/): Alife Assist clinical platform for IVF clinics, integrating with EMR systems.
+- [Embryo Predict](https://www.alifehealth.com/embryo-predict/): AI tool to assist embryo assessment and transfer decisions for Day 5-7 blastocysts.
+- [Schedule Predict](https://www.alifehealth.com/schedule-predict/): Optimizes egg-retrieval scheduling to reduce lab overcapacity.
+- [Success Predictor](https://www.alifehealth.com/success-predictor/): Patient success-likelihood modeling to support conversion.
+- [Alife App](https://www.alifehealth.com/alife-app/): Patient-facing IVF companion application.
+
+## Resources
+- [Research](https://www.alifehealth.com/research/): Peer-reviewed studies and clinical trials behind the models.
+- [Blog](https://www.alifehealth.com/blog/): Patient-facing IVF and fertility education.
+- [Press](https://www.alifehealth.com/press/): Press and news.
+- [IVF Success Calculator](https://www.alifehealth.com/ivf-success-calculator/): Patient calculator.
+
+## Company
+- [Team](https://www.alifehealth.com/team/): Leadership and team.
+- [Careers](https://www.alifehealth.com/careers/): Open roles.
+- [Contact](https://www.alifehealth.com/contact/): Customer support and contact.
+- [Request a Demo](https://www.alifehealth.com/request-a-demo/): Clinic onboarding / sales.
+- [Patents](https://www.alifehealth.com/patents/): Patent portfolio.
+
+## Security
+- [Security](https://www.alifehealth.com/security/): Information security program (SOC 2 framework); report issues to security@alifehealth.com.
+- [Terms of Use](https://www.alifehealth.com/terms-of-use/)
+- [Privacy Policy](https://www.alifehealth.com/privacy/)

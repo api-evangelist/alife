@@ -1,0 +1,15 @@
+generated: '2026-07-17'
+method: searched
+probe: true
+url: https://www.alifehealth.com/security/
+certifications:
+- SOC 2
+evidence:
+- source: https://www.alifehealth.com/security/
+  keywords:
+  - soc 2
+  - information security program
+  detail: 'Information Security Program "follows the criteria set forth by the SOC 2
+    Framework" per the /security/ page.'
+notes: SOC 2 framework alignment stated on the security page. No ISO 27001, PCI DSS,
+  HIPAA, or FedRAMP claims found; no dedicated trust.* subdomain.

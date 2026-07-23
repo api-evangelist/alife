@@ -1,8 +1,13 @@
 aid: alife
 name: Alife
-description: Alife is a company surfaced as a portfolio company of union-square-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Alife Health is an AI-powered fertility technology company building clinical
+  decision-support tools for IVF clinics and fertility patients. Its Alife Assist platform
+  integrates directly with clinic EMR systems and layers machine-learning models across
+  the IVF cycle - Embryo Predict for AI-assisted embryo assessment and transfer decisions,
+  Schedule Predict for optimizing egg-retrieval scheduling, and Success Predictor for
+  patient success-likelihood modeling - alongside a patient-facing Alife App. Backed
+  by Union Square Ventures. Alife does not currently publish a public API, developer
+  portal, or SDK; this profile captures its public web, security, and compliance surface.
 url: https://raw.githubusercontent.com/api-evangelist/alife/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,11 +15,32 @@ x-backed-by:
 - union-square-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://www.alifehealth.com/AlifeLogo.png
 tags:
 - Company
+- Health
+- Healthcare
+- Fertility
+- IVF
+- Reproductive Health
+- Artificial Intelligence
+- Machine Learning
+- Clinical Decision Support
+- Digital Health
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +50,30 @@ maintainers:
 common:
 - type: Website
   url: https://www.alifehealth.com
+- type: Blog
+  url: https://www.alifehealth.com/blog/
+- type: Support
+  url: https://www.alifehealth.com/contact/
+- type: SignUp
+  url: https://www.alifehealth.com/request-a-demo/
+- type: TermsOfService
+  url: https://www.alifehealth.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://www.alifehealth.com/privacy/
+- type: Security
+  url: https://www.alifehealth.com/security/
+- type: VulnerabilityDisclosure
+  url: security/alife-vulnerability-disclosure.yml
+- type: TrustCenter
+  url: https://www.alifehealth.com/security/
+- type: Compliance
+  url: https://www.alifehealth.com/security/
+- type: DomainSecurity
+  url: security/alife-domain-security.yml
+- type: LLMsTxt
+  url: llms/alife-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
