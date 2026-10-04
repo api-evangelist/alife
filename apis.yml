@@ -49,7 +49,7 @@ tags:
 - IVF
 - Reproductive Health
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Clinical Decision Support
 - Digital Health
 tags_raw:
@@ -63,6 +63,7 @@ tags_raw:
 - Machine Learning
 - Clinical Decision Support
 - Digital Health
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
